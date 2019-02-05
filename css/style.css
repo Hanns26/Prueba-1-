@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css?family=Open Sans:400,500,600,700');
+body{
+	
+	font-size: 14px;
+	color: #212529;
+}
+.section{
+	padding:50px 0;
+	min-height:300px;
+}
+.header-area.sticky {
+    box-shadow: 0 4px 10px #151515;
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99999;
+}
+.header-area.sticky .navbar-light{
+	background-color: #151515 !important;
+}
+.header-area{
+	color:#151515;
+}
+
+#sec-slides{
+	text-align: center;
+}
+.carousel-caption{
+	font-family: 'Ubuntu', sans-serif;
+}
+.carousel-caption h4,
+.carousel-caption h1{
+	font-family: 'Pacifico', cursive;
+}
+.carousel-caption h4{
+	color:#E39007;
+	margin-top:  220px;
+}
+
+#reviews{
+	background-color:  #f5f5f5;
+	text-align: center;
+	font-size: 20px;
+}
+
+#reviews h2{
+	padding-top: 30px;
+}
+
+#reviews i{
+	color: darkorange;
+}
+
+#reviews .special{
+	padding: 0, 35px;
+}
+
+#menu{
+	text-align: center;
+}
+#menu h2{
+	font-family: 'Pacifico', cursive;
+	color: #b98d36;
+	font-size: 25px;
+	padding-top: 40px;
+}
+
+#menu p{
+	font-size: 20px;
+}
+
+#columna{
+	text-align: center;
+	background-color: #f5f5f5;
+	
+}
+
+#columna h2{
+		font-family: 'Pacifico', cursive;
+	color: #b98d36;
+	font-size: 25px;
+	padding-top: 40px;
+}
+
+#columna{
+	text-align: center;
+}
+.cubo{
+	background-color: #fff;
+	padding-top: 30px;
+	
+	
+}
+
+
+.intro{
+	color: #FFFFFF;
+	font-family: 'Ubuntu', sans-serif;
+}
+.ghostly{
+	font-size: 35px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+}
+.pie-imagen{
+	margin-bottom: 20px;
+	margin-top: 10px;
+	color:#fff;
+	text-align: left;
+}
+#Intro {
+	background: #1F81BF;
+	text-align: center;
+}
+#Intro p{
+	text-align: left;
+}
+#Intro h3{
+	padding-top: 30px;
+	padding-bottom: 15px;
+	color: #fff;
+}
+
+.ghostly-2{
+	color: #FFF;
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+.About-ghost h2{
+	padding-top: 55px;
+	padding-bottom: 15px;
+	color: #8B0AE0;
+}
+.About-ghost h4{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 20px;
+}
+.About-ghost{
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+	padding-bottom: 55px;
+}
+.blog-info h4{
+	text-align: left;
+	font-family: 'Ubuntu', sans-serif;
+	color:#1F81BF;
+}
+
+
+#footer{
+	background-color: #171717;
+}
+.nigga{
+	padding-top: 30px;
+	padding-bottom: 15px;
+	color: #fff;
+}
+.nigga-2 p{
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+.nigga h3{
+	color: #1F81BF;
+}
+.titulitos h3{
+	color: #1F81BF;
+}
+.iconitos{
+	color: #1F81BF;
+	font-size: 30px;
+}
+
+.billie{
+	padding-top: 25px;
+	padding-bottom: 35px;
+}
+#sec-form{
+	background-color:#282626;
+	padding-bottom: 40px;
+}
+.form-group{
+	color:#fff;
+}
+
+#sec-form h2{
+	color:#1F81BF;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	text-align: center;
+}
+.titulofaltante{
+	color: #8B0AE0;
+	padding-top: 35px;
+	padding-bottom: 15px;
+	text-align: center;
+}
